@@ -1,0 +1,91 @@
+/* ===== Fira Sans ===== */
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/Fira_Sans/FiraSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/Fira_Sans/FiraSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/Fira_Sans/FiraSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/Fira_Sans/FiraSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/Fira_Sans/FiraSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ===== Rambla ===== */
+@font-face {
+    font-family: 'Rambla';
+    src: url('../fonts/Rambla/Rambla-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rambla';
+    src: url('../fonts/Rambla/Rambla-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rambla';
+    src: url('../fonts/Rambla/Rambla-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ===== Varela ===== */
+@font-face {
+    font-family: 'Varela';
+    src: url('../fonts/Varela/Varela-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ===== Cascadia Code ===== */
+@font-face {
+    font-family: 'Cascadia Code';
+    src: url('../fonts/Cascadia_Code/CascadiaCode-VariableFont_wght.ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cascadia Code';
+    src: url('../fonts/Cascadia_Code/CascadiaCode-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: italic;
+    font-display: swap;
+}
